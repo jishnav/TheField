@@ -1,0 +1,10 @@
+# Modules required for creating your first voice assistant
+
+speechrecognition
+pywhatkit
+pyttsx3
+datetimme
+pyaudio
+numpy
+pandas
+   
